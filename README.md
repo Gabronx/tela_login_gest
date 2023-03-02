@@ -1,6 +1,6 @@
 <h1>Projeto de remodelagem portal Gestauto 2023</h1>
 <br>
-<p>Tela de login</p>
+<p>Tela de login (responsive)</p>
 
 
 
